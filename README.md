@@ -33,7 +33,7 @@ The project focuses on smooth paddle controls, physics-based ball movement, and 
 1. Clone or download the repository.  
 2. Open the project in **Unity (version 2021 or later recommended)**.  
 3. Press **Play** in the Unity Editor to start.  
-4. Use **arrow keys** or **A/D keys** to move the paddle.  
+4. Use **arrow keys** or **W/S keys** to move the paddle.  
 
 ---
 
